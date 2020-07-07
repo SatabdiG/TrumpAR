@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{8B92EDA2-99C8-A1A2-4D01-E1826BD44657}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TrumpControl.cs">
+    <Files>
+      <File FileName="Assets/TrumpControl.cs" Line="29" Column="82" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TrumVideo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TrumpControl.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TrumVideo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3b1ee1b4-4db2-4cb8-a3f9-09d5400812c0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
